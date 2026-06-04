@@ -61,4 +61,5 @@ In modern machine learning development, it is easy to import a model and call `.
 2. pip install numpy
 3. jupyter calculus_and_stats_essentials.ipynb
 
-Connect with me on LinkedIn - [Abhay Kumar Sharma](www.linkedin.com/in/abhay-kumar-sharma-a22a94171)
+Connect with me on LinkedIn - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-sharma-a22a94171)
+
